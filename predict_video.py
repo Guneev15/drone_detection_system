@@ -3,8 +3,8 @@ from ultralytics import YOLO
 import cv2
 
 # Define the video path
-video_path = 'C:/Users/bhavi/Downloads/drone_dataset/drone.mp4'
-video_path_out = 'C:/Users/bhavi/Downloads/drone_dataset/output.mp4'
+video_path = 'C:/Users/bhavi/Downloads/drone_dataset/drone.mp4' #add your video path here
+video_path_out = 'C:/Users/bhavi/Downloads/drone_dataset/output.mp4' #add the path where you want your video to be saved
 
 # Check if the video file exists
 if not os.path.exists(video_path):
@@ -27,7 +27,7 @@ width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 fps = cap.get(cv2.CAP_PROP_FPS)
 
-# Define the codec and create VideoWriter object
+# Define the codec and create a VideoWriter object
 fourcc = cv2.VideoWriter_fourcc(*'mp4v')
 out = cv2.VideoWriter(video_path_out, fourcc, fps, (width, height))
 
