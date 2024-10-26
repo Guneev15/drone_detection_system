@@ -47,7 +47,7 @@ Here are some example outputs from the drone detection system:
 ### Video Detection Example
 - **Description**: An example of drone detection on a pre-recorded video.
 - **Output**:
-![Video Detection]()
+![Video Detection](output_video.mp4)
 
 ## Getting Started
 
