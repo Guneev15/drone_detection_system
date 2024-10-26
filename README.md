@@ -40,9 +40,9 @@ The model was trained on a custom drone detection dataset from [Kaggle's YOLO Dr
 - `predict_video.py`: Script for detection on a video file.
 - `predict_webcam.py`: script for real-time detection using a webcam.
 - `yolov8n_trained.pt`: Trained YOLOv8 model for drone detection.
+- 
 <p align = "center">
-![napkin-selection (2)](<img src = "https://github.com/user-attachments/assets/bb4f07bb-5c28-49d6-af62-8d1ec5c90f31" width = "200" height = "400")
-
+<img src = "https://github.com/user-attachments/assets/bb4f07bb-5c28-49d6-af62-8d1ec5c90f31" width = "400" height = "400"
 
 ## Example Outputs
 Here are some example outputs from the drone detection system:
