@@ -105,6 +105,12 @@ If you have any questions or feedback, feel free to reach out:
 - Enhance model accuracy with more diverse datasets.
 - Create a user interface for easier interaction.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Summary of the MIT License
+The MIT License is a permissive free software license. It allows users to do almost anything they want with the project, as long as they include a copy of the original MIT License and copyright notice with it. It also provides a disclaimer that the software is provided "as is", without warranty of any kind.
+
 
 
 
