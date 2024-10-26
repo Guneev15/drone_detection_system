@@ -42,7 +42,8 @@ Here are some example outputs from the drone detection system:
 ### Webcam Detection Example
 - **Description**: An example of drone detection using a webcam.
 - **Output**:
-![Webcam Detection](path/to/webcam_detection_example.jpg)
+![image](https://github.com/user-attachments/assets/55ee6498-0846-4394-8cfc-09d3b21372cc)
+
 
 ### Video Detection Example
 - **Description**: An example of drone detection on a pre-recorded video.
