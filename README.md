@@ -53,6 +53,8 @@ Here are some example outputs from the drone detection system:
   
 ![image](https://github.com/user-attachments/assets/b811b517-448b-4e8a-8e20-19db9e5de319)
 
+![Screenshot 2024-10-26 131953](https://github.com/user-attachments/assets/c4f9aab5-5820-4314-b4da-400e622294d4)
+
 ### Video Detection Example
 - **Description**: An example of drone detection on a pre-recorded video.
 - **Output**:
