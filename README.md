@@ -82,7 +82,8 @@ To train the model on your dataset, ensure `data.yaml` is correctly configured, 
  ```bash
    python main.py
    ```
-the output `` will be saved in same directory as the script.
+the output `yolov8n_trained.pt` will be saved in same directory as the script.
+
 Model was trained on a custom drone detection dataset from [Kaggle's YOLO Drone Detection Dataset](https://www.kaggle.com/datasets/muki2003/yolo-drone-detection-dataset).
 
 Watch [Computer Vsion Engineer - Youtube Video](https://www.youtube.com/watch?v=m9fH9OWn8YM) to know how to train your own custom dataset.
