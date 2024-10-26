@@ -42,7 +42,8 @@ The model was trained on a custom drone detection dataset from [Kaggle's YOLO Dr
 - `yolov8n_trained.pt`: Trained YOLOv8 model for drone detection.
 - 
 <p align = "center">
-<img src = "https://github.com/user-attachments/assets/bb4f07bb-5c28-49d6-af62-8d1ec5c90f31" width = "400" height = "400"  
+<img src = "https://github.com/user-attachments/assets/bb4f07bb-5c28-49d6-af62-8d1ec5c90f31"  
+
 
 ## Example Outputs
 Here are some example outputs from the drone detection system:
