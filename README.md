@@ -25,6 +25,9 @@ This is a Python-based drone detection system that utilizes YOLO (You Only Look 
 - Drone detection on pre-recorded video files
 - Custom YOLOv8 model trained on a drone detection dataset
 
+  ![napkin-selection (1)](https://github.com/user-attachments/assets/72bac339-df54-4872-8bc8-6932aa62ba70)
+
+
 ## Dataset
 
 The model was trained on a custom drone detection dataset from [Kaggle's YOLO Drone Detection Dataset](https://www.kaggle.com/datasets/muki2003/yolo-drone-detection-dataset).
@@ -37,6 +40,9 @@ The model was trained on a custom drone detection dataset from [Kaggle's YOLO Dr
 - `predict_video.py`: Script for detection on a video file.
 - `predict_webcam.py`: script for real-time detection using a webcam.
 - `yolov8n_trained.pt`: Trained YOLOv8 model for drone detection.
+
+![napkin-selection (2)](https://github.com/user-attachments/assets/bb4f07bb-5c28-49d6-af62-8d1ec5c90f31)
+
 
 ## Example Outputs
 Here are some example outputs from the drone detection system:
@@ -68,6 +74,9 @@ Ensure that Python 3.12.7 is installed on your machine.
       ```bash
       pip install -r requirements.txt
       ```
+
+![napkin-selection (3)](https://github.com/user-attachments/assets/178d5a75-e9b8-441b-98b8-ae6893f52a9a)
+
       
 ## Usage
 
@@ -92,6 +101,9 @@ Ensure that Python 3.12.7 is installed on your machine.
    ```
    Output: Detected videos will be saved as `output.mp4` in the same directory as the script.
 
+   ![napkin-selection (4)](https://github.com/user-attachments/assets/3a688d39-1440-443e-aa56-edb45037cb32)
+
+
 ## Training
 To train the model on your dataset, ensure `data.yaml` is correctly configured, and then run `main.py` using the following command:
 
@@ -105,7 +117,10 @@ You can refer to the [Kaggle YOLO Drone Detection Dataset](https://www.kaggle.co
 ## Acknowledgments
 - OpenCV for computer vision functionalities.
 - YOLOv8 for object detection framework.
-- Kaggle for providing the dataset. 
+- Kaggle for providing the dataset.
+
+![napkin-selection (5)](https://github.com/user-attachments/assets/8929079c-b638-49d3-9a7f-ac6c35e675b5)
+
 
 ## Contact
 If you have any questions or feedback, feel free to reach out:
@@ -120,6 +135,9 @@ If you have any questions or feedback, feel free to reach out:
 - Implement multi-drone detection capabilities.
 - Enhance model accuracy with more diverse datasets.
 - Create a user interface for easier interaction.
+
+  ![napkin-selection (6)](https://github.com/user-attachments/assets/41b79c2a-8d7d-488e-aa08-bd89195e90e4)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
