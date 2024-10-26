@@ -3,6 +3,7 @@
 - [Features](#features)
 - [Dataset](#dataset)
 - [Files](#files)
+- [Example Outputs](#example-outputs)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -12,10 +13,11 @@
 - [Contact](#contact)
 - [Troubleshooting](#troubleshooting)
 - [Future Improvements](#future-improvements)
+- [License](#license)
 
 # Drone Detection System
 
-This is a Python-based drone detection system that utilizes YOLO (You Only Look Once) for object detection on a custom-trained drone dataset. It can detect drones in real-time using a webcam or in video files. This project was created using OpenCV and YOLOv8.
+This is a Python-based drone detection system that utilizes YOLO (You Only Look Once) for object detection on a custom-trained drone dataset. It can detect drones in real time using a webcam or in video files. This project was created using OpenCV and YOLOv8.
 
 ## Features
 
