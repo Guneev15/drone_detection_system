@@ -36,6 +36,22 @@ The model was trained on a custom drone detection dataset from [Kaggle's YOLO Dr
 - `predict_webcam.py`: script for real-time detection using a webcam.
 - `yolov8n_trained.pt`: Trained YOLOv8 model for drone detection.
 
+## Example Outputs
+Here are some example outputs from the drone detection system:
+
+### Webcam Detection Example
+- **Description**: An example of drone detection using a webcam.
+- **Output**:
+![Webcam Detection](path/to/webcam_detection_example.jpg)
+
+### Video Detection Example
+- **Description**: An example of drone detection on a pre-recorded video.
+- **Output**:
+![Video Detection](path/to/video_detection_example.jpg)
+
+### Output Video
+You can watch the output video of the drone detection [here](path/to/output_video.mp4).
+
 ## Getting Started
 
 ### Prerequisites
