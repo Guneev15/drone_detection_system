@@ -1,6 +1,7 @@
 names:
   - drone
 nc: 1
-path: C:/Users/bhavi/Downloads/drone_dataset/
-train: C:/Users/bhavi/Downloads/drone_dataset/train
+#download the data from https://www.kaggle.com/datasets/muki2003/yolo-drone-detection-dataset
+path: C:/Users/bhavi/Downloads/drone_dataset/  
+train: C:/Users/bhavi/Downloads/drone_dataset/train 
 val: C:/Users/bhavi/Downloads/drone_dataset/valid
